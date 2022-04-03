@@ -1,5 +1,5 @@
-The file sizes varies between 33MB to 63MB.
-It is a bit convoluted process to get them from Ruckus website. 
+It is a bit convoluted process to get the files from Ruckus' website, 
+so if you want, you may find them here: https://danielarauz.com/ruckus-zone-director-1100-firmware/. 
 
 zd1100_9.1.2.0.8.ap_9.1.2.0.8.img
 zd1100_9.3.0.0.87.ap_9.3.0.0.87.img 

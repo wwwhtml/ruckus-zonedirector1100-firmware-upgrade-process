@@ -1,6 +1,5 @@
-It is a bit convoluted process to get the files from Ruckus' website,  <br>
-so... if you want to make it easier on you, you may find them here: <br>
-https://danielarauz.com/ruckus-zone-director-1100-firmware/. 
+It is a bit convoluted process to get the files from Ruckus' website,<br>
+so... they are available here: <br>
 <br><br>
 <a href="https://danielarauz.com/ruckus-zone-director-1100-firmware/zd1100_9.1.2.0.8.ap_9.1.2.0.8.img">zd1100_9.1.2.0.8.ap_9.1.2.0.8.img</a><br>
 <a href="https://danielarauz.com/ruckus-zone-director-1100-firmware/zd1100_9.3.0.0.87.ap_9.3.0.0.87.img">zd1100_9.3.0.0.87.ap_9.3.0.0.87.img</a><br>

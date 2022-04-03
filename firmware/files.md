@@ -1,6 +1,6 @@
 It is a bit convoluted process to get the files from Ruckus' website,<br>
 so... they are available here: <br>
-<br><br>
+<br>
 <a href="https://danielarauz.com/ruckus-zone-director-1100-firmware/zd1100_9.1.2.0.8.ap_9.1.2.0.8.img">zd1100_9.1.2.0.8.ap_9.1.2.0.8.img</a><br>
 <a href="https://danielarauz.com/ruckus-zone-director-1100-firmware/zd1100_9.3.0.0.87.ap_9.3.0.0.87.img">zd1100_9.3.0.0.87.ap_9.3.0.0.87.img</a><br>
 <a href="https://danielarauz.com/ruckus-zone-director-1100-firmware/zd1100_9.3.4.0.21.ap_9.3.4.0.21.img">zd1100_9.3.4.0.21.ap_9.3.4.0.21.img</a><br>
@@ -16,4 +16,5 @@ so... they are available here: <br>
 <a href="https://danielarauz.com/ruckus-zone-director-1100-firmware/zd1100_9.9.1.0.31.ap_9.9.1.0.31.img">zd1100_9.9.1.0.31.ap_9.9.1.0.31.img</a><br>
 <a href="https://danielarauz.com/ruckus-zone-director-1100-firmware/zd1100_9.10.2.0.114.ap_9.10.2.0.114.img">zd1100_9.10.2.0.114.ap_9.10.2.0.114.img</a><br> 
 <a href="https://danielarauz.com/ruckus-zone-director-1100-firmware/zd1100_9.10.2.0.29.ap_9.10.2.0.29.img">zd1100_9.10.2.0.29.ap_9.10.2.0.29.img</a><br>
+<br>
 <hr color="red">

@@ -1,6 +1,5 @@
 
 <h2> Ruckus Zone Director 1100 Firmware Upgrade Steps, Via SSH.</h2>
-<br>
 If the ZoneDirector 1100 has been factory reset,  upgrading from the lowest version one at the time all the way to the last one worked for me. Bloody slow process, but works. Each upgrade takes about 15 minutes or so. There are 15 versions, starting from zd1100_9.1.2.0.8.ap_9.1.2.0.8.img to zd1100_9.10.2.0.114.ap_9.10.2.0.114.img. This process assumes that you already have a TFTP server with the firmware ready for connections. Important to know, the Access Points will be automatically upgraded by the Controller once it gets upgraded.<br>
 <br>
 SSH into it: If you Zone Director firmware version is under 9.8.3.0 built 44 use this ssh connection format (replace IP for your ZD’s IP):<br><br>
@@ -41,6 +40,6 @@ The default password: admin
 
 Don't forget to change that password.
 
-Hope it helps someone up there.
+Hope it helps someone out there.
 
 

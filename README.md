@@ -23,6 +23,12 @@ Press "y" to initiate the upgrade. Slow process, probably 20 minutes or so, you 
 <b>y</b>
 <br><br>
 The upgrade takes place, the status light will be green when ready.
+<br>
+<br>
+Screenshot example of the process:<br>
+<br>
+<center><img src="https://github.com/wwwhtml/ruckus-zonedirector1100-firmware-upgrade-process/blob/main/Ruckus_ZoneDirector-1100_firmware-upgrade-via-SSH.png?raw=true" alt="Screenshot showing the process of the Ruckus Zone Director firmware upgrade process" /></center>
+
 
 ## Web Browser Configuration
 ----------------------------
